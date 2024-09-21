@@ -3,9 +3,11 @@
    click “Generate” for a strong, random password. Easily copy it to your clipboard for quick use.
 
 💢 Project Description:
+
     🔅 Welcome to Key Crafters, your go-to tool for generating secure and unique passwords! With our user-friendly interface, you can easily create passwords tailored to your needs.
 
 💢 Features:
+
     🔅 Customizable Options: Choose from mixed uppercase letters, lowercase letters, numbers, and special characters to craft the perfect password.
     🔅 One-Click Generation: Simply hit the “Generate” button, and watch as Key Crafters creates a strong, random password just for you.
     🔅 Flexible Length: Select your desired password length for enhanced security.
