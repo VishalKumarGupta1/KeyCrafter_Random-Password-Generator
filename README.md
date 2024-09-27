@@ -1,18 +1,13 @@
 # Key Crafters: Random Password Generator
-💢 Key Crafters is a user-friendly tool for generating secure and unique passwords. Customize your password with uppercase letters, lowercase letters, numbers, and special characters. Choose your desired length and 
-   click “Generate” for a strong, random password. Easily copy it to your clipboard for quick use.
+💢 Key Crafters is a user-friendly tool for generating secure and unique passwords. Customize your password with uppercase letters, lowercase letters, numbers, and special characters. Choose your desired length and click “Generate” for a strong, random password. Easily copy it to your clipboard for quick use.
 
-💢 Project Description:
+## Features:
 
-    🔅 Welcome to Key Crafters, your go-to tool for generating secure and unique passwords! With our user-friendly interface, you can easily create passwords tailored to your needs.
-
-💢 Features:
-
-    🔅 Customizable Options: Choose from mixed uppercase letters, lowercase letters, numbers, and special characters to craft the perfect password.
-    🔅 One-Click Generation: Simply hit the “Generate” button, and watch as Key Crafters creates a strong, random password just for you.
-    🔅 Flexible Length: Select your desired password length for enhanced security.
-    🔅 One-Click Generation: Simply hit the “Generate” button, and watch as Key Crafters creates a strong, random password just for you.
-    🔅 Easy Copy Functionality: Instantly copy your newly generated password to your clipboard for seamless use.
+ - Customizable Options: Choose from mixed uppercase letters, lowercase letters, numbers, and special characters to craft the perfect password.
+ - One-Click Generation: Simply hit the “Generate” button, and watch as Key Crafters creates a strong, random password just for you.
+ - Flexible Length: Select your desired password length for enhanced security.
+ - One-Click Generation: Simply hit the “Generate” button, and watch as Key Crafters creates a strong, random password just for you.
+ - Easy Copy Functionality: Instantly copy your newly generated password to your clipboard for seamless use.
 
 
 💢 Enhance your online security with Key Crafters—strong passwords made simple!
@@ -20,7 +15,19 @@
 💢 Live Demo Check out the live demo of the stopwatch --->  https://codewithvishal123.bsite.net/KeyCrafter.html
 
 
+## Technologies Used
 
+- HTML
+- CSS
+- JavaScript
+
+## Contributing
+
+Feel free to fork the repository and submit pull requests. Contributions to improve the project are always welcome!
+
+## Acknowledgements
+
+Thank you for checking out **Key Crafters**! If you have any questions or feedback, feel free to reach out.
 
  💢 ![KeyCrafter--laptop](https://github.com/user-attachments/assets/51141718-ec56-4e5b-8d61-c30e62bdac21)
 
