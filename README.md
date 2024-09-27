@@ -12,14 +12,21 @@
 
 💢 Enhance your online security with Key Crafters—strong passwords made simple!
 
-💢 Live Demo Check out the live demo of the stopwatch --->  https://codewithvishal123.bsite.net/KeyCrafter.html
+💢 Live Demo Check out the live demo of the stopwatch --->  https://codewithvishal123.bsite.net/KeyCrafter.html        /           https://vishalkumargupta1.github.io/KeyCrafter_Random-Password-Generator/
 
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- **HTML**: Structure the web application.
+- **CSS**: Style the application for an intuitive user experience.
+- **JavaScript**: Implement logic for password generation and user interactions.
+
+## How to Use
+
+1. Visit the live demo link.
+2. Choose your desired password criteria (length, character types).
+3. Click the “Generate” button to create a strong password.
+4. Copy the password to your clipboard for use.
 
 ## Contributing
 
